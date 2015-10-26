@@ -1,4 +1,4 @@
-# Doubly Linked List - A OOP JavaScript Exercise
+# Doubly Linked List - An OOP JavaScript Exercise
 
 By [Matthew Yang](http://www.matthewgyang.com).
 
